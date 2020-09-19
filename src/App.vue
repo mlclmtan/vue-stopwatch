@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
+      <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
